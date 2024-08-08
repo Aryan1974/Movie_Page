@@ -89,12 +89,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact 📧
 
 - **GitHub:** [Aryan1974](https://github.com/Aryan1974)
-- **Email:** your-email@example.com
+- **Email:** aryandennis25@gmail.com
 
----
-
-### Notes:
-- Replace the image links with actual URLs where your screenshots are hosted.
-- Update the contact email with your actual email address.
-
-This README includes HTML, CSS, and JavaScript in the Tech Stack section, with images and emojis to enhance the presentation of your Movie Page project.
