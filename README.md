@@ -1,4 +1,6 @@
+Here’s a README file for your "Movie_Page" repository, complete with images, emojis, and the requested tech stack:
 
+---
 
 # Movie Page 🎬🍿
 
@@ -18,7 +20,6 @@
 
 **Movie Page** is a visually appealing and user-friendly web application designed to showcase a collection of movies. With an intuitive interface, users can easily browse through movie posters, read detailed descriptions, and check out ratings—all in one place.
 
-![Movie Page Screenshot]index.html)
 
 ## Features 🔥
 
@@ -30,9 +31,9 @@
 ## Tech Stack 🛠️
 
 - **Frontend:**
-  - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-  - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![HTML](index.html) 
+  - ![CSS](app.css) 
+  - ![JavaScript](app.js)
 
 ## Installation 🚀
 
@@ -88,7 +89,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact 📧
 
 - **GitHub:** [Aryan1974](https://github.com/Aryan1974)
-- **Email:** aryandennis25@gmail.com
+- **Email:** your-email@example.com
 
 ---
 
